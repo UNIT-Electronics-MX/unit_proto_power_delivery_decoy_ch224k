@@ -6,7 +6,7 @@ The **UNIT Power Board with Load Simulation** is a versatile power module design
 ## Features
 - **Input:** USB-C (supports PD, QC, and BC protocols)
 - **Selectable Output Voltages:** 5V, 9V, 12V, 15V, and 20V (via DIP switch)
-- **Fixed Output:** 3.3V at 1.5A (toggleable via DIP switch)
+- **Fixed Output:** 3.3V at 2A (toggleable via DIP switch)
 - **Screw Terminal:** 5mm terminal providing VUSB output (5V-20V)
 - **Breadboard Compatibility:** Fits both **54mm** and **64mm** wide breadboards
 - **Voltage Rail Selectors:** Choose between 3.3V or VUSB for breadboard power rails
