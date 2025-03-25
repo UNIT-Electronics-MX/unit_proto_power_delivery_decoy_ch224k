@@ -26,7 +26,7 @@ The output voltage depends on the connected power adapter's supported protocol. 
 - **Voltage Rail Selection:** Jumpers allow selecting **3.3V** or **VUSB** for each breadboard rail.
 
 ## Pinout
-![UNIT Power Board Pinout](hardware/resources/protopowerdecoy_pinout_v1.webp)
+![UNIT Power Board Pinout](hardware/resources/protopowerdecoy_pinout_v1[EN].jpg)
 
 ## Usage
 1. **Connect a USB-C power adapter** supporting PD, QC, or BC protocols.
