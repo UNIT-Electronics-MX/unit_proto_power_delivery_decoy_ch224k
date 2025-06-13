@@ -16,11 +16,11 @@ The output voltage depends on the connected power adapter's supported protocol. 
 
 | S1 | S2 | S3 | VUSB Output |
 |----|----|----|-------------|
-| 0  | 0  | 0  | 5V          |
-| 1  | 0  | 0  | 9V          |
-| 0  | 1  | 0  | 12V         |
-| 1  | 1  | 0  | 15V         |
-| 0  | 0  | 1  | 20V         |
+| 1  | -  | -  | 5V          |
+| 0  | 0  | 0  | 9V          |
+| 0  | 0  | 1  | 12V         |
+| 0  | 1  | 1  | 15V         |
+| 0  | 1  | 0  | 20V         |
 
 - **3.3V Enable Switch:** A separate switch enables or disables the fixed **3.3V** output.
 - **Voltage Rail Selection:** Jumpers allow selecting **3.3V** or **VUSB** for each breadboard rail.
